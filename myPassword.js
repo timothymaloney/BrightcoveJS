@@ -2,7 +2,7 @@ var myPlayer,
   passwordToMatch = "",
   myModal;
 
-videojs.getPlayer("myPlayerID").ready(function() {
+videojs.getPlayer("Password-Player").ready(function() {
   var options = {},
     formButton,
     passwordInput,
